@@ -1,5 +1,3 @@
-shopping
+shopping-app
 ===========
-
-轻量级的购物网站
-
+the mobile client(ios、android 、pad) backend repository 
