@@ -3,11 +3,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.iballad</groupId>
-	<artifactId>shopping</artifactId>
+	<artifactId>shopping-app</artifactId>
 	<version>0.0.1-dev</version>
 	<packaging>war</packaging>
 
-	<name>shopping</name>
+	<name>shopping-app</name>
 	<url>https://github.com/iballad/shopping.git</url>
 
 	<build>
