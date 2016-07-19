@@ -1,12 +1,14 @@
-# eclipse file and directory
-.project
-.classpath
 .settings/
+bin/
+target/
+src/main/webapp/WEB-INF/classes/
+build/
+.gradle/
+gradle/
 
-# java files and directory
+.classpath
+.project
 *.class
 *.jar
 *.war
 *.ear
-/target/
-bin/
